@@ -1,0 +1,5 @@
+start_time: 09:00
+end_time: 21:00
+schedule:
+  - { start: 12:00, end: 13:00, note: "Lunch break!" }
+  - { start: 14:00, end: 15:00, note: "Meeting with the team" }
